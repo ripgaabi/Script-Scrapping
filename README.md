@@ -72,4 +72,4 @@ Este proyecto es un primer paso para realizar una verificación de correos elect
 
 ---
 
-En cada codigo proporcionado estaran los comentarios para entender mas a profundidad el codigo :p
+En cada codigo proporcionado estaran los comentarios de cada linea para poder entenderlos mas a profundidad :p
